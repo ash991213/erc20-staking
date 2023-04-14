@@ -16,10 +16,6 @@
 
 - 스테이킹 토큰(ERC20)입니다.
 
-### stakingToken
-
-- 스테이킹 토큰(ERC20)입니다.
-
 ### rewardToken
 
 - 보상 토큰(ERC20)입니다.
