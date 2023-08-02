@@ -83,3 +83,11 @@
 3. Stakers can claim their rewards by calling the claimReward function. They specify the staking type (_type) to claim rewards from a specific staking type. Only rewards from one staking type can be claimed at a time. Even if the staking period (30 days, 60 days, 90 days) is not completed, stakers can claim rewards for the duration from the initial staking time to the current time.
 
 4. Stakers can unstake by using the unstake function. They specify the staking type (_type) to unstake from a specific staking type. After unstaking and receiving the staking tokens, stakers can claim rewards by calling the claimReward function.
+
+## Security analysis
+
+- MythX
+
+![스크린샷 2023-08-02 오전 11 06 01](https://github.com/ash991213/ERC20-Staking/assets/99451647/d16ead9a-e370-4c1c-8539-08d256432730)
+
+
